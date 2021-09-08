@@ -1,7 +1,8 @@
 <template>
   <header class="relative flex items-center justify-center h-screen mb-12 overflow-hidden">
     <video autoplay loop muted class="absolute z-10 w-auto min-w-full min-h-full max-w-none">
-      <source src="blaceio.mp4" type="video/mp4" />Your browser does not support the video tag.
+      <source src="/blaceio.mp4" type="video/mp4" />
+      <p>Watch the video at <a href="https://vimeo.com/599977032" target="_blank">https://vimeo.com/599977032</a></p>
     </video>
   </header>
   <div class="max-w-lg m-auto">
