@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  code {
+    @apply font-mono bg-gray-500 text-white px-1;
+  }
+}

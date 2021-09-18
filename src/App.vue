@@ -17,7 +17,7 @@
     <p class="mb-4">
       Numerous projects are being built or proposed in <a href="https://cardano.ideascale.com/" target="_blank">Project Catalyst</a> that aim to create decentralized marketplaces to serve as intermediaries between supply and demand, sellers and buyers, server and clients.
 We have identified the need to build a framework in order for people to spin-up their marketplaces.
-Just like their simpler Web 2.0 equivalents, blace enables scaffolding marketplaces with a simple <span class="font-mono bg-gray-500 text-white px-1">blace new</span>, thus cutting down development time and cost.
+Just like their simpler Web 2.0 equivalents, blace enables scaffolding marketplaces with a simple <code>blace new</code>, thus cutting down development time and cost.
     </p>
     <p class="mb-12">
       Please consider <a href="https://cardano.ideascale.com/a/dtd/368797-48088">supporting our proposal</a> as we are heading into a new development phase. There you can also read more about our <a href="https://winwin-team.web.app/" target="_blank">team</a> and specific use-cases.
